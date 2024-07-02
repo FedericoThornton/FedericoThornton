@@ -7,7 +7,5 @@ Habilidades: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO/ MY SQL/MON
 - 📫 Cómo contactarme: fedethornton@hotmail.com 
 
 
-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/federico-thornton-3134a016//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoThornton)](https://github.com/anuraghazra/github-readme-stats)
 
