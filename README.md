@@ -4,7 +4,7 @@ Licenciado en Comunicación Social en proceso de transición hacia el análisis 
 
 I hold a degree in Social Communication and I am transitioning into Data Analysis and Business Intelligence. I am currently training in tools such as Python for data analysis (pandas, numpy, sklearn), SQL, Power BI, and Tableau.
 
-Habilidades/Skills: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO / MYSQL / MONGOBD / C# .NET / EXCEL / 
+Habilidades/Skills: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO / MYSQL / MONGOBD / C# .NET / EXCEL / LOOKER STUDIO
 
 - 🌱 Estoy aprendiendo todo lo necesario para ser analista de datos. 
 - 📫 Cómo contactarme: fedethornton@hotmail.com 
