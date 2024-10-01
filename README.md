@@ -1,8 +1,8 @@
 ### Hola 👋, Mi nombre es Federico
 #### Soy un entusiasta del análisis de datos
-Licenciado en Comunicación Social en proceso de transición hacia el análisis de datos y Business Intelligence. Actualmente capacitándome en herramientas como Python para análisis de datos (pandas, numpy, sklearn), SQL, Power BI, y Tableau. 
+Licenciado en Comunicación Social en proceso de transición hacia el análisis de datos y Business Intelligence. Actualmente manejo herramientas como Python para análisis de datos (pandas, numpy, sklearn), SQL, Power BI, Looker Studio (Google Data Studio) y Tableau. 
 
-I hold a degree in Social Communication and I am transitioning into Data Analysis and Business Intelligence. I am currently training in tools such as Python for data analysis (pandas, numpy, sklearn), SQL, Power BI, and Tableau.
+Bachelor's Degree in Social Communication transitioning to Data Analysis and Business Intelligence. I currently work with tools such as Python for data analysis (pandas, numpy, sklearn), SQL, Power BI, Looker Studio (Google Data Studio), and Tableau.
 
 Habilidades/Skills: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO / MYSQL / MONGOBD / C# .NET / EXCEL / LOOKER STUDIO
 
