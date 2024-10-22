@@ -6,7 +6,7 @@ Bachelor's Degree in Social Communication transitioning to Data Analysis and Bus
 
 Habilidades/Skills: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO / MYSQL / MONGOBD / C# .NET / EXCEL / LOOKER STUDIO
 
-- 🌱 Estoy aprendiendo todo lo necesario para ser analista de datos. 
+- 🌱 En constante capacitación en todo lo relacionado con el análisis de datos. 
 - 📫 Cómo contactarme: fedethornton@hotmail.com 
 
 
