@@ -1,5 +1,4 @@
 ### Hola 👋, Mi nombre es Federico
-#### Soy un entusiasta del análisis de datos
 Licenciado en Comunicación Social con especialización en análisis de datos y visualización, con más de 8 años de experiencia en comunicación institucional y gestión de proyectos. Experto en el desarrollo y ejecución de estrategias de comunicación, creación de contenidos y gestión de proyectos audiovisuales.
 
 Habilidades/Skills: POWER BI / TABLEAU / SQL / SQL SERVER MANAGEMENT STUDIO / MYSQL / MONGOBD / C# .NET / EXCEL / LOOKER STUDIO
